@@ -1,0 +1,1 @@
+Este es un repositorio con un curso de c++ detallado.
